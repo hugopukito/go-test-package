@@ -1,3 +1,3 @@
-module github.com/your-username/myproject
+module github.com/hugopukito/gotestpackage
 
 go 1.19
